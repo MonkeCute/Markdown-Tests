@@ -32,7 +32,7 @@ Tento projekt je licencován pod:
 
 Pokud tento projekt používáš, prosím uveď:
 
-> "Based on GitHub Markdown Cheat Sheet by [username]"
+> "Based on GitHub Markdown Cheat Sheet by MonkeCute"
 
 ---
 
