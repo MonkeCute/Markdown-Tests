@@ -134,3 +134,5 @@ print("Hello")
 #123
 
 ---
+## 🖇️ Otevíratelné linky s textem
+[▶ Open on YouTube](https://youtube.com)
